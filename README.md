@@ -1,6 +1,6 @@
 # Hyperspectral-Anomaly-Detection-CRDBPSW
 
-**Paper: Collaborative representation with background purication and saliency weight for hyperspectral anomaly detection**
+**Paper: Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection**
 
 <img src="workflow.png" alt="workflow">
 Fig.1. Schematic of the proposed background purification framework
