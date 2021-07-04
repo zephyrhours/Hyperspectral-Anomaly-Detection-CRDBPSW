@@ -2,7 +2,7 @@
 
 **Paper: Collaborative representation with background purication and saliency weight for hyperspectral anomaly detection**
 
-<img src="workflow.jpg" alt="workflow">
+<img src="workflow.png" alt="workflow">
 Fig.1. Schematic of the proposed background purification framework
 
 
