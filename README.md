@@ -6,7 +6,7 @@
 Fig.1. Schematic of the proposed background purification framework
 
 
-# Requirement
+# Prerequisites
 **MATLAB R2018a**
 
 
@@ -20,20 +20,23 @@ Fig.1. Schematic of the proposed background purification framework
 The expanded paper has not yet been included in IEEE for the time being, while the IGARSS2020 conference paper and the preprint version of the expanded paper are available. If these codes and dataset are helpful for you, please cite this paper:
 
 **BibTex Format:**<br />
-@INPROCEEDINGS{9324521,<br />
-author={Hou, Zengfu and Li, Wei and Gao, Lianru and Zhang, Bing and Ma, Pengge and Sun, Junling},<br />
-booktitle={IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium},<br />
-title={A Background Refinement Collaborative Representation Method with Saliency Weight for Hyperspectral Anomaly Detection},<br />
-year={2020},<br />
-volume={},<br />
-number={},<br />
-pages={2412-2415},<br />
+```
+@INPROCEEDINGS{9324521,
+author={Hou, Zengfu and Li, Wei and Gao, Lianru and Zhang, Bing and Ma, Pengge and Sun, Junling},
+booktitle={IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium},
+title={A Background Refinement Collaborative Representation Method with Saliency Weight for Hyperspectral Anomaly Detection},
+year={2020},
+volume={},
+number={},
+pages={2412-2415},
 doi={10.1109/IGARSS39084.2020.9324521}}
+```
 
 **Plain Text Format:**<br />
+```
 Z. Hou, W. Li, L. Gao, B. Zhang, P. Ma and J. Sun, "A Background Refinement Collaborative Representation Method with Saliency Weight for Hyperspectral Anomaly Detection," IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium, 2020, pp. 2412-2415, doi: 10.1109/IGARSS39084.2020.9324521.
+```
 
-
-# My Website
+# Website
 - [Github Website](https://zephyrhours.github.io/)
 - [Chinese CSDN](https://blog.csdn.net/NBDwo)
