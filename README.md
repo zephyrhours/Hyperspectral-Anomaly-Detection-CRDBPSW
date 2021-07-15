@@ -17,7 +17,7 @@ Fig.1. Schematic of the proposed background purification framework
 
 
 # Citation
-The expanded paper has not yet been published, while the IGARSS2020 conference paper is available. If these codes and dataset are helpful for you, please cite this paper:
+The expanded paper has not yet been included in IEEE for the time being, while the IGARSS2020 conference paper and the preprint version of the expanded paper are available. If these codes and dataset are helpful for you, please cite this paper:
 
 **BibTex Format:**<br />
 @INPROCEEDINGS{9324521,<br />
