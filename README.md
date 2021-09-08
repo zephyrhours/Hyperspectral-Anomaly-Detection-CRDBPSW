@@ -3,14 +3,14 @@
 **Paper: Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection**
 
 <img src="workflow.png" alt="workflow">
-**Fig.1.** Schematic of the proposed background purification framework
+**Fig.1. Schematic of the proposed background purification framework**
 
 
 <img src="ParaAnalysis_Residual_Sandiego.jpg" alt="workflow">
-**Fig.2.** Residual values of CRD and the proposed CRDBPSW using background pixels in the San Diego dataset
+**Fig.2. Residual values of CRD and the proposed CRDBPSW using background pixels in the San Diego dataset**
 
 <img src="ParaAnalysis_Spectrum_Sandiego.jpg" alt="workflow">
-**Fig.3.** Comparison of spectral signatures using one chosen background pixel
+**Fig.3. Comparison of spectral signatures using one chosen background pixel**
 
 # Prerequisites
 **MATLAB R2018a**
