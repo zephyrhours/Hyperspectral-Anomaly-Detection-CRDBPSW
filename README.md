@@ -23,9 +23,24 @@ Fig.3. Comparison of spectral signatures using one chosen background pixel
 
 
 # Citation
-The expanded paper has not yet been included in IEEE for the time being, while the IGARSS2020 conference paper and the preprint version of the expanded paper are available. If these codes and dataset are helpful for you, please cite this paper:
+If these codes and dataset are helpful for you, please cite this paper:
 
 **BibTex Format:**<br />
+
+```
+@article{hou2022collaborative,
+  title={Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection},
+  author={Hou, Zengfu and Li, Wei and Tao, Ran and Ma, Pengge and Shi, Weihua},
+  journal={Science China Information Sciences},
+  volume={65},
+  number={1},
+  pages={1--12},
+  year={2022},
+  publisher={Springer}
+}
+
+```
+
 ```
 @INPROCEEDINGS{9324521,
 author={Hou, Zengfu and Li, Wei and Gao, Lianru and Zhang, Bing and Ma, Pengge and Sun, Junling},
@@ -39,6 +54,13 @@ doi={10.1109/IGARSS39084.2020.9324521}}
 ```
 
 **Plain Text Format:**<br />
+
+
+```
+Z. Hou, W. Li, R. Tao, P. Ma, and W. Shi, "Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection." Science China Information Sciences, 2022, 65(1), 1-12.
+```
+
+
 ```
 Z. Hou, W. Li, L. Gao, B. Zhang, P. Ma and J. Sun, "A Background Refinement Collaborative Representation Method with Saliency Weight for Hyperspectral Anomaly Detection," IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium, 2020, pp. 2412-2415, doi: 10.1109/IGARSS39084.2020.9324521.
 ```
